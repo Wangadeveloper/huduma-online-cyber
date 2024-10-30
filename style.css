@@ -2,20 +2,20 @@ body{
     margin: 0;
     padding: 0;
     background-color: bisque;
+    width: auto;
 }
 
 .container{
-    height: 100%;
-    width: 100%;
-    position: relative;
-    display: flex;
-    justify-content: center;
+    top: 0px;
+    min-height: 100%;
+    width:100%;
+    padding: 10px;
+    
+   
 }
 
 .mid-section{
-    position: absolute;
-    top: 0px;
-    height: 250px;
+    min-height: 250px;
     width: 100%;
     justify-content: center;
     align-content: center;
@@ -25,19 +25,18 @@ body{
 }
 
 .media{
-    position: absolute;
-    top: 650px;
-    height: 300px;
+    
+    min-height: 300px;
     width: 100%;
     justify-content: center;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .education{
-    position: absolute;
-    top:300px ;
-    height: 350px;
-    width: 100vw;
+    
+    min-height: 350px;
+    width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -45,26 +44,26 @@ body{
     font-size: 20px;
 }
 .media img{
+    display: block;
     height: 300px;
     width: 300px;
-    padding-inline: 50px;
+    padding-inline: 40px;
 
 }
 
 #hint{
-    position: absolute;
-    top: 1000px;
+    
     text-align: center;
-    height: 3%;
+    min-height: 3%;
     color: brown;
 }
 
 .services{
-    position: absolute;
-    top: 1100px;
-    height: 250px;
+    
+    min-height: 250px;
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .services div{
@@ -74,11 +73,7 @@ body{
     
 }
 
-.services div a{
-  margin-top: 100px;
-  font-size: 25px;
-  color: black;
-}
+
 
 #sentence{
     font-size: 20px;
@@ -101,15 +96,14 @@ body{
 }
 
 #here{
-    top: 250px;
-    height: 5%;
+    min-height: 5%;
     width: 100%;
-    position: absolute;
+    
 }
 #marq{
 font-size: 20px;
 }
 
 #here hr{
-    height: 5px;
+    min-height: 5px;
 }
