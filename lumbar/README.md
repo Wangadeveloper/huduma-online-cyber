@@ -1,7 +1,9 @@
 The goal of this notebook is to create models that can be used to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images. Comp this model will simulate a radiologist's performance in diagnosing spine conditions.
 
 the description below is extracted from kaggle where the competition was posted :
+
 Description
+
 Low back pain is the leading cause of disability worldwide, according to the World Health Organization, affecting 619 million people in 2020. Most people experience low back pain at some point in their lives, with the frequency increasing with age. Pain and restricted mobility are often symptoms of spondylosis, a set of degenerative spine conditions including degeneration of intervertebral discs and subsequent narrowing of the spinal canal (spinal stenosis), subarticular recesses, or neural foramen with associated compression or irritations of the nerves in the low back.
 
 Magnetic resonance imaging (MRI) provides a detailed view of the lumbar spine vertebra, discs and nerves, enabling radiologists to assess the presence and severity of these conditions. Proper diagnosis and grading of these conditions help guide treatment and potential surgery to help alleviate back pain and improve overall health and quality of life for patients.
