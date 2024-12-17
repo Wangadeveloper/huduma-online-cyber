@@ -1,4 +1,4 @@
-https://www.kaggle.com/code/wangapa106g/lumbar-desease-diag/edit/run/208766953 ,this is the fully trained notebook with an accuracy of a bove 85%
+https://www.kaggle.com/code/wangapa106g/lumbar-desease-diag/ ,this is the fully trained notebook with an accuracy of a bove 85%
 To run the notebook in its executable environment here is the link on [kaggle:https://www.kaggle.com/code/wangapa106g/lumbar-desease-diag/edit/run/198049271](https://www.kaggle.com/code/wangapa106g/lumbar-desease-diag/edit/run/208766953)
 The goal of this notebook is to create models that can be used to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images. Comp this model will simulate a radiologist's performance in diagnosing spine conditions.
 
